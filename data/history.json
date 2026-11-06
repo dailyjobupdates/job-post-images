@@ -1,5 +1,71 @@
 [
  {
+  "date_iso": "2026-11-06",
+  "date": "6 Nov",
+  "jobs": [
+   {
+    "role": "Python Software Engineer",
+    "company": "Citi",
+    "type": "Full-time",
+    "salary": "Not disclosed",
+    "education": "Bachelor's degree",
+    "batch": "2026, 2025, 2024",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/citi-recruitment-2026-python-software.html",
+    "official_url": "https://jobs.citi.com/job/chennai/python-software-engineer/287/102321775712"
+   },
+   {
+    "role": "AI ML Trainee (6-month contract)",
+    "company": "NatWest Group",
+    "type": "Contract",
+    "salary": "Not disclosed",
+    "education": "Graduate · closes 7 Nov",
+    "batch": "2026, 2025",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/natwest-group-recruitment-2026-ai-ml.html",
+    "official_url": "https://jobs.natwestgroup.com/jobs/18441064-ai-ml-trainee-6-month-fixed-term-contract-2025-slash-2026-graduates"
+   },
+   {
+    "role": "Engineer - Virtualization",
+    "company": "Target",
+    "type": "Full-time",
+    "salary": "Not disclosed",
+    "education": "B.E / B.Tech",
+    "batch": "2026, 2025, 2024",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/target-recruitment-2026-engineer.html",
+    "official_url": "https://corporate.target.com/jobs/w10/28/engineer-virtualization"
+   },
+   {
+    "role": "Associate Developer, Process Automation",
+    "company": "Cargill",
+    "type": "Full-time",
+    "salary": "Not disclosed",
+    "education": "B.E / B.Tech",
+    "batch": "2025, 2024",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/cargill-recruitment-2026-associate.html",
+    "official_url": "https://careers.cargill.com/en/job/-/-/23251/101947724080"
+   },
+   {
+    "role": "AI or ML Engineer",
+    "company": "Optum (UnitedHealth Group)",
+    "type": "Full-time",
+    "salary": "Not disclosed",
+    "education": "Undergraduate degree",
+    "batch": "Check official page",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/optum-unitedhealth-group-recruitment.html",
+    "official_url": "https://careers.unitedhealthgroup.com/job/-/-/34088/102874035024"
+   },
+   {
+    "role": "Engineer (Software Engineering)",
+    "company": "Qualcomm",
+    "type": "Full-time",
+    "salary": "Not disclosed",
+    "education": "B.E / B.Tech",
+    "batch": "Check official page",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/qualcomm-recruitment-2026-engineer.html",
+    "official_url": "https://careers.qualcomm.com/careers/job/446721219253"
+   }
+  ]
+ },
+ {
   "date_iso": "2026-11-05",
   "date": "5 Nov",
   "jobs": [
