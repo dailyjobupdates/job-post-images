@@ -1,5 +1,41 @@
 [
  {
+  "date_iso": "2026-11-09",
+  "date": "9 Nov",
+  "jobs": [
+   {
+    "role": "ASIC Verification Engineer",
+    "company": "NVIDIA",
+    "type": "Full-time",
+    "salary": "Est. 11-18 LPA",
+    "education": "BE/BTech/MTech (CS / ECE)",
+    "batch": "2026, 2025, 2024",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/nvidia-off-campus-drive-2026-asic.html",
+    "official_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Hyderabad/ASIC-Verification-Engineer_JR2020484"
+   },
+   {
+    "role": "DevOps Engineer (Salesforce)",
+    "company": "Accenture",
+    "type": "Full-time",
+    "salary": "Est. 8-13 LPA",
+    "education": "Graduate",
+    "batch": "Not for freshers: 3+ yrs exp",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/accenture-recruitment-2026-devops.html",
+    "official_url": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5692363-S2062370_en"
+   },
+   {
+    "role": "Intern Bachelors Software Eng",
+    "company": "Honeywell",
+    "type": "Internship",
+    "salary": "Est. 25K-45K / month",
+    "education": "Bachelor's students (Software Eng / related)",
+    "batch": "Check official page",
+    "apply_url": "https://www.telugutechlearners.in/2026/11/honeywell-internship-2026-intern.html",
+    "official_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127641"
+   }
+  ]
+ },
+ {
   "date_iso": "2026-11-06",
   "date": "6 Nov",
   "jobs": [
